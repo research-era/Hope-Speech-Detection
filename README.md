@@ -91,11 +91,14 @@ Task2.ipynb
 The system generates prediction files for submission to the shared task leaderboard.
 
 Output files for Task 1:
-SJM_MINDS_Tulu_run1.csv
-SJM_MINDS_Tulu_run2.csv
+
+-SJM_MINDS_Tulu_run1.csv
+
+-SJM_MINDS_Tulu_run2.csv
 
 Output file for Task 2:
-SJM_MINDS_Tulu.csv
+
+-SJM_MINDS_Tulu.csv
 
 ---
 
