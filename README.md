@@ -1,9 +1,8 @@
-**SJM_MINDS@Dravidianlangtech@ACL2026:Machine Learning Approaches for Hope Speech Detection in Code-Mixed Tulu**
+**SJM_MINDS@DravidianLangTech@ACL2026:Machine Learning Approaches for Hope Speech Detection in Code-Mixed Tulu**
 
 This repository contains the implementation of the system developed for the **Hope Speech Detection Shared Task** at DravidianLangTech @ ACL 2026.
 
-The task focuses on identifying different types of encouraging and discouraging speech in code-mixed Tulu social media text.
-
+This shared task focuses on detecting hope-related expressions in code-mixed Tulu social media texts. It consists of two tasks: Task 1 identifies the overall emotional tone of a post based on the presence, absence, or ambiguity of hope-related expressions, while Task 2 further categorizes posts containing hope into specific types of hope-related content, inspired by the PolyHope framework.
 ---
 
 ## **Task 1: Coarse-Grained Hope Tone Classification**
